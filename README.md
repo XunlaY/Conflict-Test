@@ -78,11 +78,11 @@ Always make sure that:
 * You don't just replace the code someone else wrote without making sure your code will do the same thing or make it better.
 * You always check that the code works BEFORE committing it.
 
-Warning:
+#### Warning
 ![](https://raw.githubusercontent.com/GameDevWeek/Conflict-Test/master/images/warning.png)
 
-P4Merge:
+#### P4Merge:
 ![](https://raw.githubusercontent.com/GameDevWeek/Conflict-Test/master/images/p4merge.png)
 
-Merged conflicts:
+#### Merged conflicts:
 ![](https://raw.githubusercontent.com/GameDevWeek/Conflict-Test/master/images/merged.png)
