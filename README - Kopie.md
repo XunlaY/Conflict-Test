@@ -32,7 +32,7 @@ This is a new Line!
 ///////////////
 ...
 /////////////////
-Change this line of text has been changed (changes)
+Change this line of text has been changed to something else.
 ///////////////
 ...
 ```
